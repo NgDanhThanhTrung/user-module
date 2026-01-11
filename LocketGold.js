@@ -17,13 +17,13 @@ const premiumInfo = {
   period_type: "normal",
   expires_date: "2999-12-18T01:04:17Z",
   original_purchase_date: "2008-03-05T01:04:17Z",
-  purchase_date: "2008-03-05T01:04:17Z",
+  purchase_date: "2000-04-07T01:04:17Z",
   store: "app_store"
 };
 
 const entitlementInfo = {
   grace_period_expires_date: null,
-  purchase_date: "2008-03-05T01:04:17Z",
+  purchase_date: "2000-04-07T01:04:17Z",
   product_identifier: "com.ttrungisme.bi.premium.yearly",
   expires_date: "2999-12-18T01:04:17Z"
 };
