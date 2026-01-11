@@ -16,7 +16,7 @@ const premiumInfo = {
   billing_issues_detected_at: null,
   period_type: "normal",
   expires_date: "2999-12-18T01:04:17Z",
-  original_purchase_date: "2008-03-05T01:04:17Z",
+  original_purchase_date: "2000-04-07T01:04:17Z",
   purchase_date: "2000-04-07T01:04:17Z",
   store: "app_store"
 };
